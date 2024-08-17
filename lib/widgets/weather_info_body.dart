@@ -58,7 +58,7 @@ class WeatherInfoBody extends StatelessWidget {
                     Text(
                       'Max Temp: ${weatherModel.maxTemp.round()}°',
                       style: const TextStyle(
-                        fontSize: 16,
+                        fontSize: 18,
                       ),
                     ),
                     Text(
